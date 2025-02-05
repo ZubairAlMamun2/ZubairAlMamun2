@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/nqp2kz87/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/DDzdDjvX/Profile.png)
 
 # ZUBAIR AL MAMUN
 **Frontend Developer | Web Developer**
