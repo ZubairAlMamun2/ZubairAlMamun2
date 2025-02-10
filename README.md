@@ -4,7 +4,7 @@
 **Frontend Developer | Web Developer**
 
 ## About Me
-Hi, I'm Zubair Al Mamun, a passionate web developer primarily use MERN stack technologi for building websites. I love crafting user-friendly, responsive, and high-performance web applications. I am also a fast learner and passionate about implementing and launching new projects and ideas.
+Hi, I'm Zubair Al Mamun, a passionate web developer primarily use MERN stack technology for building websites. I love crafting user-friendly, responsive, and high-performance web applications. I am also a fast learner and passionate about implementing and launching new projects and ideas.
 
 ## 🚀 Current Activities
 - 🌍 Exploring Next.js for better server-side rendering and SEO optimization.
