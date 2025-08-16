@@ -1,4 +1,4 @@
-![Banner]([https://i.ibb.co.com/DDzdDjvX/Profile.png](https://ibb.co.com/mF18VzzK))
+![Banner](https://ibb.co.com/mF18VzzK)
 
 # ZUBAIR AL MAMUN
 **Frontend Developer | Web Developer**
