@@ -1,5 +1,4 @@
-[![Banner](https://ibb.co.com/mF18VzzK)](https://i.ibb.co.com/YT5H27J/your-image-name.png
-)
+![Banner](https://i.ibb.co.com/G3BT4PPD/Black-and-White-Gradient-Personal-Linked-In-Banner-3.png)
 
 # ZUBAIR AL MAMUN
 **Frontend Developer | Web Developer**
