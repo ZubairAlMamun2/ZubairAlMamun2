@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co.com/G3BT4PPD/Black-and-White-Gradient-Personal-Linked-In-Banner-3.png)
 
 # ZUBAIR AL MAMUN
-**Frontend Developer | Web Developer**
+**Full-Stack Web Developer || React, Node.js, Express.js and MongoDb Specialist || Problem Solver**
 
 ## About Me
 Hi, I'm Zubair Al Mamun, a passionate web developer primarily use MERN stack technology for building websites. I love crafting user-friendly, responsive, and high-performance web applications. I am also a fast learner and passionate about implementing and launching new projects and ideas.
